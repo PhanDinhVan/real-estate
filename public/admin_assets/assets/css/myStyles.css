@@ -1,0 +1,14 @@
+.lunchBegins {
+	width: 25% !important;
+}
+.search-bds {
+	width: 60% !important;
+}
+.item img {
+	height: 420px !important;
+	width: 100%;
+}
+#header_navigation {
+	padding: 15px;
+	float: right;
+}
